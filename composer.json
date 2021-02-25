@@ -7,7 +7,7 @@
     },
     "require": {
         "illuminate/database": ">=4.0",
-        "optimus/bruno": "dev-laravel-6"
+        "optimus/bruno": "dev-laravel-7"
     },
     "require-dev": {
         "mockery/mockery": "0.9.*",
